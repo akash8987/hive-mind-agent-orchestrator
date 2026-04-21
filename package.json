@@ -1,0 +1,10 @@
+{
+  "name": "hive-mind-orchestrator",
+  "version": "1.0.0",
+  "description": "Multi-agent swarm coordination and communication protocol",
+  "dependencies": {
+    "viem": "^2.0.0",
+    "p2p-node": "^1.2.0",
+    "ethers": "^6.10.0"
+  }
+}
