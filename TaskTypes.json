@@ -1,0 +1,6 @@
+{
+  "SECURITY_AUDIT": "Audit a smart contract for reentrancy and logic flaws.",
+  "LIQUIDITY_PROVISION": "Provide liquidity to a specific pool in Repo 90.",
+  "GOVERNANCE_VOTE": "Analyze and vote on a specific Forge DAO proposal.",
+  "DATA_COLLECTION": "Fetch and normalize real-world data for RWA Oracles (Repo 92)."
+}
